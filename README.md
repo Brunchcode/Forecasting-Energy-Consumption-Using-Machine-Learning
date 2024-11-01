@@ -1,6 +1,5 @@
 # Forecasting Energy Consumption Using Machine Learning
-## Msc Data Science Distertation 
-### Distinction
+## Msc Data Science Distertation (Distinction:80%)
 
 This project focuses on forecasting energy consumption using machine learning models, developed as part of an MSc dissertation at Manchester Metropolitan University. This project aims to improve the accuracy of short-term and long-term energy consumption forecasts, addressing limitations in traditional methods and supporting efficient energy management towards net-zero goals.
 
